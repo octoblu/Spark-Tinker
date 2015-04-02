@@ -1,3 +1,7 @@
+/***
+ * All the based tinker functions are registered. You can add you own code.
+ ***/
+
 // This #include statement was automatically added by the Spark IDE.
 #include "Tinker/Tinker.h"
 
