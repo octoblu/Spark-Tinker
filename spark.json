@@ -1,7 +1,7 @@
 {
-  "name": "Tinker",
-  "author": "Christian Vallières",
+  "name": "meshblu-tinker",
+  "author": "Moheeb Zara",
   "license": "GPL",
   "version": "1.0.1",
-  "description": "Control Spark unused pins with Tinker interface in your project."
+  "description": "Use meshblu to control Spark unused pins with Tinker interface in your project. Forked from the original Tinker API from Spark"
 }
