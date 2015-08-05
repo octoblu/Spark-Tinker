@@ -1,5 +1,5 @@
 #include "application.h"
-#include "Tinker.h"
+#include "meshblu-tinker.h"
 
 /******************************************************************************
  * Function Name  : tinkerDigitalRead
